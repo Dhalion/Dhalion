@@ -58,7 +58,7 @@
 </p>
 
 <h2 align="center">🚀 Featured Projects</h2>
-<table align="center" width="100%" style="border-spacing: 20px 0;">
+<table align="center" width="100%" style="border-spacing: 20px 15px;">
   <tr>
     <td width="48%" style="vertical-align:top; background:#23272e; border-radius:14px; box-shadow:0 2px 8px rgba(0,0,0,0.10); padding:22px;">
       <div style="margin-bottom:16px;">
@@ -87,5 +87,22 @@
         <b>Features:</b> Fast IP-to-country lookups, efficient parsing.
       </div>
     </td>
+  </tr>
+  <tr>
+    <td width="48%" style="vertical-align:top; background:#23272e; border-radius:14px; box-shadow:0 2px 8px rgba(0,0,0,0.10); padding:22px;">
+      <div style="margin-bottom:16px;">
+        <span style="font-size:1.5em; font-weight:700; letter-spacing:0.5px; color:#fff;">📬 MailFyke</span>
+      </div>
+      <a href="https://github.com/Dhalion/MailFyke">
+        <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <div align="left" style="margin-top:16px; color:#eaeaea;">
+        <span>Multi-tenant mail catcher — SMTP receiver with tenant isolation and web UI.</span><br>
+        <b>Tech Stack:</b> Go, Chi, PostgreSQL, Vue 3, Tailwind<br>
+        <b>Features:</b> SMTP receiver, multi-tenant isolation, web UI, role-based access.
+      </div>
+    </td>
+    <td width="4%"></td>
+    <td width="48%"></td>
   </tr>
 </table>
